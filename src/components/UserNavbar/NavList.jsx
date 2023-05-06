@@ -1,7 +1,7 @@
 function NavList() {
     return (
-        <div className=" w-[26%] h-[100%] ">
-            <ul className=" w-full h-full flex gap-5 justify-center items-center text-[13px]">
+        <div className=" w-[25%] h-[100%]">
+            <ul className=" w-full h-full flex gap-12 justify-start items-center text-[13px]">
                 <li>HOME</li>
                 <li>SHOP</li>
                 <li>MODELS</li>
