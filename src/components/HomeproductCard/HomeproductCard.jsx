@@ -1,5 +1,5 @@
 import p1 from '../../assets/product-1.jpg'
-function UserproductCard() {
+function HomeproductCard() {
   return (
     <div className=" w-[337px] h-[479px] flex-col flex justify-center items-center">
         <div className=" w-[85%] h-[73%] bg-[#9292921f]">
@@ -13,4 +13,4 @@ function UserproductCard() {
   )
 }
 
-export default UserproductCard
+export default HomeproductCard

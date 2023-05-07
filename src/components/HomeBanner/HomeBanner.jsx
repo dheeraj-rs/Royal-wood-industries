@@ -1,7 +1,7 @@
 import BannerContainer from "./BannerContainer"
 import BannerCount from "./BannerCount"
 
-function UserBanner() {
+function HomeBanner() {
     return (
          <div className=" w-screen h-[93vh] flex justify-center text-[14px]">
             <BannerContainer />
@@ -10,4 +10,4 @@ function UserBanner() {
     )
 }
 
-export default UserBanner
+export default HomeBanner
