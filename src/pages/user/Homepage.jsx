@@ -1,11 +1,13 @@
 import React from "react";
 import UserNavbar from "../../components/UserNavbar/UserNavbar";
-import UserHome from "../../components/UserHome/UserHome";
+import UserShoplist from "../../components/UserShoplist/UserShoplist";
+import UserBanner from "../../components/UserBanner/UserBanner";
 function Homepage() {
   return (
     <React.Fragment>
       <UserNavbar />
-      <UserHome/>
+      <UserBanner/>
+      <UserShoplist/>
     </React.Fragment>
   );
 }
