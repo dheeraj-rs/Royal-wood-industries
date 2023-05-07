@@ -12,7 +12,7 @@ function Homepage() {
       <HomeShoplist />
       <HomeService/>
       <HomeCopyright/>
-    </React.Fragment>
+      </React.Fragment>
   );
 }
 
